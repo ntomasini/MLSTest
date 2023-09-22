@@ -1,0 +1,21 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>C:\Documentos\Visual Studio 2008\MLSTest1.1\release1.0.2.6\|C:\Documentos\Visual Studio 2008\MLSTest1.1\release1.0.2.5\|C:\Documentos\Visual Studio 2008\MLSTest1.1\release1.0.2.4\|C:\Documentos\Visual Studio 2008\MLSTest1.1\release1.0.2.3\|C:\Documentos\Visual Studio 2008\MLSTest1.1\release1.0.2.2\</PublishUrlHistory>
+    <InstallUrlHistory>http://mlstest.codeplex.com/releases/clickonce/|https://mlstest.codeplex.com/releases/clickonce/|https://mlstest1.codeplex.com/releases/clickonce/|http://MLSTest1.codeplex.com/releases/MLSTest1/|http://MLSTest1.codeplex.com/releases/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>http://mlstest.codeplex.com/releases/clickonce/|https://mlstest.codeplex.com/releases/clickonce/|https://mlstest1.codeplex.com/releases/clickonce/|http://MLSTest.codeplex.com/releases/MLSTest1/|http://MLSTest.codeplex.com/releases/clickonce/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+</Project>
